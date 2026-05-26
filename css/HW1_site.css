@@ -6,7 +6,7 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 
-/* List headings and table */
+/* List headings, table, and images */
 
 li {
     font-size: 25px;
@@ -21,4 +21,8 @@ table, th, td {
 
 table th {
     text-align: left;
+}
+
+img {
+    margin: 10px 0px 1px;
 }
